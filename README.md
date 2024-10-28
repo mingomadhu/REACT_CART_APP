@@ -22,7 +22,7 @@ PREACT CART TASK OUTPUT (http://localhost:3000/)
 
 ## Author:
 
-- **Madhusudhanan s** - **[Portfolio Website](https://github.com/mingomadhu)**, **[Linkedin](https://app.netlify.com/teams/sanjaimadhu8220/sites)**
+- **Madhusudhanan s** - **[Portfolio Website](https://github.com/mingomadhu)**, **[NETLIFY](https://app.netlify.com/teams/sanjaimadhu8220/sites)**
 
 <br/>
 
