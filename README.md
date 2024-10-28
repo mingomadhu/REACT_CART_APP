@@ -1,7 +1,7 @@
 # React Shopping Cart
-PREACT CART TASK OUTPUT (http://localhost:3000/)
+REACT CART TASK OUTPUT (http://localhost:5173/)
 
-**Shopping Cart Project** built with **React JS**, using **Context API** & **useReducer Hook**.
+**Shopping Cart Project** built with **React JS**, using **Context API** 
 
 <br/>
 
@@ -32,7 +32,10 @@ PREACT CART TASK OUTPUT (http://localhost:3000/)
 
 ## Available Scripts:
 
+
+#### `cd project name`
+
 #### `npm install`
 
-#### `npm start`
+#### `npm run dev`
 
