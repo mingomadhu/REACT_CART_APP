@@ -15,8 +15,12 @@ PREACT CART TASK OUTPUT (http://localhost:3000/)
 
 ## Technologies used:
 
-- #### **React JS**
-- #### **SASS**
+
+
+- #### **ReactJs*
+- #### **HTML/CSS*
+- #### **JavaScript for functionality*
+
 
 <br/>
 
